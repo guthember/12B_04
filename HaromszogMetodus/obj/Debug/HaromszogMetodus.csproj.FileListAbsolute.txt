@@ -1,0 +1,6 @@
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\bin\Debug\HaromszogMetodus.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\bin\Debug\HaromszogMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\bin\Debug\HaromszogMetodus.pdb
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\obj\Debug\HaromszogMetodus.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\obj\Debug\HaromszogMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\HaromszogMetodus\HaromszogMetodus\obj\Debug\HaromszogMetodus.pdb
